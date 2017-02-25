@@ -68,14 +68,14 @@ em {
   height: 50px;
   width: 50px;
   position: absolute;
-  left: 51%;
+  left: 48%;
 }
 
 .link {
   height: 50px;
   width: 50px;
   position: absolute;
-  left: 59%;
+  left: 56%;
 }
 
 .email {
@@ -83,7 +83,7 @@ em {
   height: 55px;
   width: 55px;
   position: absolute;
-  left: 42%;
+  left: 39%;
   border-radius: 8px;
 }
 
@@ -92,7 +92,7 @@ em {
   height: 60px;
   width: 55px;
   position: absolute;
-  left: 33%;
+  left: 30%;
 }
 
 .resume {
@@ -100,7 +100,7 @@ em {
   height: 60px;
   width: 55px;
   position: absolute;
-  left: 68%;
+  left: 65%;
 }
 
 
